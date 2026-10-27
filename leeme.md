@@ -1,4 +1,4 @@
-# Grafica sancilla
+# Grafica sencilla
 ![alt text](image.png)
 
 # Personalizar grafica 
